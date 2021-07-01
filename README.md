@@ -22,3 +22,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kmuv1t&show_icons=true&locale=en&layout=compact" alt="kmuv1t" /> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kmuv1t&show_icons=true&locale=en" alt="kmuv1t" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kmuv1t&" alt="kmuv1t" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kmuv1t" alt="kmuv1t" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?kmuv1t=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
