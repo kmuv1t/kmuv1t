@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Carlos!</h1>
 <h3 align="center">A passionate Computer Engineer Student from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kmuv1t&label=Profile%20views&color=0e75b6&style=flat" alt="kmuv1t" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kmuv1t" alt="kmuv1t" /></a> </p>
-
 - 🌱 I’m currently learning **JavaScript and Node.js**
 
 - 📫 How to reach me **carlosborgesbenjamin@gmail.com**
@@ -26,3 +22,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kmuv1t&show_icons=true&locale=en" alt="kmuv1t" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kmuv1t&" alt="kmuv1t" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kmuv1t&label=Profile%20views&color=0e75b6&style=flat" alt="kmuv1t" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kmuv1t" alt="kmuv1t" /></a> </p>
