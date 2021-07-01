@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Carlos!</h1>
 <h3 align="center">A passionate Computer Engineer Student from Brazil</h3>
 
