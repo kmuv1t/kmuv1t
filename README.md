@@ -1,8 +1,8 @@
 <h1 align="center">Howdy, I'm Kmuv1t! 🛸</h1>
 <h3 align="center">A passionate Computer Engineer Student from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kmuv1t&label=Profile%20views&color=0e75b6&style=flat" alt="kmuv1t"/></p>
-[![Github](https://img.shields.io/github/followers/kmuv1t?label=Follow&style=social)](https://github.com/kmuv1t)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kmuv1t&label=Profile%20views&color=0e75b6&style=flat" alt="kmuv1t"/><img src="https://img.shields.io/github/followers/kmuv1t?label=Follow&style=social" alt="kmuv1t"/></p>
+
 
 - 🌱 I’m currently working on **Flask Application with Watson Chatbot Integration**
 
