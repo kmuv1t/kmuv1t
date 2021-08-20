@@ -17,12 +17,6 @@
 
 - ⚡ Fun fact **I love Physics!**
 
-<h3 align="left">Connect with me:</h3>
-<div> 
- <img src="https://discord-md-badge.vercel.app/api/shield/852691308899336213" target="_blank">&nbsp;
-  <a href = "mailto:carlosborgesbenjamin@gmail.com"><img src="https://img.shields.io/badge/-mail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>&nbsp;
-  <a href="https://www.linkedin.com/in/carlos-b-carcamo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>&nbsp;
-</div>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
