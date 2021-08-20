@@ -30,6 +30,6 @@
 </div>
 
 <div align="center">
-  <img height=160em src="https://github-readme-stats.vercel.app/api?username=kmuv1t&show_icons=true&locale=en&theme=vision-friendly-dark" alt="kmuv1t"/>
-  <img height=160em src="https://github-readme-streak-stats.herokuapp.com/?user=kmuv1t&theme=vision-friendly-dark" alt="kmuv1t"/>
+  <img height=170em src="https://github-readme-stats.vercel.app/api?username=kmuv1t&show_icons=true&locale=en&theme=vision-friendly-dark" alt="kmuv1t"/>
+  <img height=170em src="https://github-readme-streak-stats.herokuapp.com/?user=kmuv1t&theme=vision-friendly-dark" alt="kmuv1t"/>
 </div>
