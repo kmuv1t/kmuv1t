@@ -5,15 +5,24 @@
 
 - 🌱 I’m currently learning **JavaScript and Node.js**
 
-- 📫 How to reach me **carlosborgesbenjamin@gmail.com**
+- 📫 How to reach me:
+
+<div> 
+ <img src="https://discord-md-badge.vercel.app/api/shield/852691308899336213" target="_blank">&nbsp;
+  <a href = "mailto:carlosborgesbenjamin@gmail.com"><img src="https://img.shields.io/badge/-mail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/carlos-b-carcamo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>&nbsp;
+</div>
 
 - 📄 Know about my experiences [https://resume.io/r/bQ3DnymRu](https://resume.io/r/bQ3DnymRu)
 
 - ⚡ Fun fact **I love Physics!**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/carlos-b-carcamo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlos borges cárcamo" height="30" width="40" /></a>
+<div> 
+ <img src="https://discord-md-badge.vercel.app/api/shield/852691308899336213" target="_blank">&nbsp;
+  <a href = "mailto:carlosborgesbenjamin@gmail.com"><img src="https://img.shields.io/badge/-mail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/carlos-b-carcamo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>&nbsp;
+</div>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
