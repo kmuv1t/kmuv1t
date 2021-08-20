@@ -26,6 +26,8 @@
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 </br></div>
 
+---
+
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kmuv1t&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="kmuv1t"/>
 </div>
