@@ -28,8 +28,12 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
+<img src="https://i.pinimg.com/originals/c9/db/49/c9db49baf7a9b2237589f583fa26148d.png" alt="KaliLinux" height="40" style="vertical-align:top; margin:4px">
+<img src="https://butecotecnologico.com.br/images/wp-content/uploads/2014/11/Git-Icon-1788C.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
+<img src="https://miro.medium.com/max/336/0*rmv6pZTW2hfP2XYd.png" alt="Docker" height="40" style="vertical-align:top; margin:4px">
 <img src="https://www.kindpng.com/picc/m/188-1882416_flask-python-logo-hd-png-download.png" alt="Flask" height="40" style="vertical-align:top; margin:4px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png" alt="SQL" height="40" style="vertical-align:top; margin:4px">
+<img src="https://pbs.twimg.com/profile_images/476392134489014273/q5uAkmy7_400x400.png" alt="SQLAlchemy" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png" alt="SQLite" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="NPM" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" height="40" style="vertical-align:top; margin:4px">
 <img src="https://www.pngkey.com/png/full/140-1409984_python-logo-bash-shell-logo-shell-script-logo.png" alt="Bash" height="40" style="vertical-align:top; margin:4px">
