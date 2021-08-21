@@ -42,7 +42,7 @@
  
 ## 📈 Statistics:
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmuv1t?hide=css,html&langs_count=10&layout=compact&theme=vision-friendly-dark" alt="kmuv1t"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmuv1t&layout=compact&theme=vision-friendly-dark?hide=css,html&langs_count=10" alt="kmuv1t"/>
 </div>
 
 <div align="center">
