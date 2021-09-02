@@ -1,5 +1,5 @@
 <h1 align="center">Howdy, I'm Kmuv1t! 🛸</h1>
-<h3 align="center">A passionate Computer Engineer Student, i'm a Security Analist Intern at <a href="https://github.com/sec4you" target="_blank">SEC4YOU</a>, studying and focusing on backend development.</h3>
+<h3 align="center">A passionate Computer Engineer Student, studying and focusing on backend development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kmuv1t&label=Profile%20views&color=0e75b6&style=flat" alt="kmuv1t"/><img src="https://img.shields.io/github/followers/kmuv1t?label=Follow&style=social" alt="kmuv1t"/></p>
 
