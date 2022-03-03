@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently working on **Pentesting Courses**
 
-- 📄 Know about my experiences [https://resume.io/r/bQ3DnymRu](https://resume.io/r/bQ3DnymRu)
-
 - ⚡ Fun fact **I love Physics and Eletronics!**
 
 - 📫 How to reach me:
