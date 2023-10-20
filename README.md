@@ -1,10 +1,10 @@
 <h1 align="center">Howdy, I'm Kmuv1t! 🛸</h1>
-<h3 align="center">A passionate Computer Engineer Student, working as an Information Security Analyst<h3>
+<h3 align="center">A passionate Computer Engineer Student, working as an Python Automation Developer<h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kmuv1t&label=Profile%20views&color=0e75b6&style=flat" alt="kmuv1t"/><img src="https://img.shields.io/github/followers/kmuv1t?label=Follow&style=social" alt="kmuv1t"/></p>
 
 
-- 🌱 I’m currently working on **Pentesting Courses**
+- 🌱 I’m currently studying some **Hardware Books**
 
 - ⚡ Fun fact **I love Physics and Eletronics!**
 
